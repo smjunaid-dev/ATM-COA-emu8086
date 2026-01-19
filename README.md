@@ -1,4 +1,4 @@
-# ATM Machine Simulation – COA Project
+# ATM Machine Simulation
 
 This project simulates a simple ATM authentication system using 8086 Assembly Language in emu8086.
 
@@ -16,3 +16,4 @@ This project simulates a simple ATM authentication system using 8086 Assembly La
 1. Open emu8086
 2. Load `atm.asm`
 3. Compile and run the program
+
